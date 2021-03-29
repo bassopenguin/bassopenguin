@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bassopenguin
+- 👀 I’m interested in Rust, Game Development, GraphQL, Software Architecture... lots of stuff
+- 🌱 I’m currently learning Rust, Game Development... _mostly those for now_
+- 💞️ I’m looking to collaborate on Rust including Game Development engines/frameworks and general usage.
+- 📫 How to reach me ... here?
